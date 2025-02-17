@@ -1,0 +1,46 @@
+/* #################################################SECTION-1################################################ */
+@media screen and (min-width:0px) and (max-width:320px)
+{
+  .img1{
+    width:320px;
+  }
+  
+}
+@media screen and (min-width:321px) and (max-width:375px)
+{
+  .img1{
+    width:375px;
+  }
+  
+}
+@media screen and (min-width:376px) and (max-width:425px)
+{
+  .img1{
+    width:425px;
+  }
+  
+}
+.bar{
+  background-image: url(./project\ image);
+}
+
+.img1{
+  height: 50px;
+  width: 99vw;
+}
+span{
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  
+  
+}
+.grad{
+  color: orange;
+  transform: translate(10px);
+  
+  
+}
+.school{
+  color:rgb(19, 19, 19);
+}
